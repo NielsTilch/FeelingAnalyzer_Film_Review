@@ -13,3 +13,7 @@ Le projet a été fait sous l'IDE IntelliJ.
 
 À partir de l'IDE IntelliJ, exécuter le main.c et suivre les instructions écrient.
 (Chemin du main.c :  ./project/src/main.c)
+
+## Rapport du projet
+
+Le rapport du projet est sous le nom : RAPPORT PPII.pdf
