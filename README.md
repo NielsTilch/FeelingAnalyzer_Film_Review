@@ -16,4 +16,4 @@ Le projet a été fait sous l'IDE IntelliJ.
 
 ## Rapport du projet
 
-Le rapport du projet est sous le nom : RAPPORT PPII.pdf
+Le rapport du projet est [ici](https://github.com/NielsTilch/analyse_sentiments/blob/main/Rapport%20PPII.pdf).
