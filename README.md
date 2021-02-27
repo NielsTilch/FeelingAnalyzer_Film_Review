@@ -14,6 +14,8 @@ Le projet a été fait sous l'IDE IntelliJ.
 À partir de l'IDE IntelliJ, exécuter le main.c et suivre les instructions écrient.
 (Chemin du main.c :  ./project/src/main.c)
 
+(Fichier Makefile en cours de création ...)
+
 ## Rapport du projet
 
 Le rapport du projet est [ici](https://github.com/NielsTilch/analyse_sentiments/blob/main/Rapport%20PPII.pdf).
