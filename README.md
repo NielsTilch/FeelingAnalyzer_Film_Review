@@ -1,4 +1,4 @@
-# Analyse de sentiments à partir de critique de films
+# [FR] Analyse de sentiments à partir de critique de films
 Projet de PPII sous le langage C en collaboration avec Elisa DARGENT et Léa TOPRAK
 Le projet a été fait sous l'IDE IntelliJ.
 
@@ -19,3 +19,15 @@ Le projet a été fait sous l'IDE IntelliJ.
 ## Rapport du projet
 
 Le rapport du projet est [ici](https://github.com/NielsTilch/analyse_sentiments/blob/main/Rapport%20PPII.pdf).
+
+# [EN] Analysing feelings from film reviews
+
+PPII Project based on C done with Elisa DARGENT et Léa TOPRAK
+
+## Introduction
+
+(Soon ...)
+
+## Run the program
+
+(Soon ...)
